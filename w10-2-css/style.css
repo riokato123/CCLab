@@ -1,0 +1,19 @@
+body {
+    background: blueviolet;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.deco1 {
+    color: green
+}
+
+.deco2 {
+    color: rgba(255, 0, 125, 0.3);
+}
+
+.deco3 {
+    color: red
+}
