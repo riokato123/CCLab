@@ -1,0 +1,28 @@
+/* html,
+body {
+  margin: 100;
+  padding: 100;
+} */
+
+canvas {
+  display: block;
+}
+
+body {
+  background-color: black;
+}
+
+.background {
+  background-color: black;
+}
+
+#canvasContainer {
+  margin-left: 0%;
+  margin: right 0%;
+  width: 1740px;
+  height: 900px;
+  padding: 10px;
+  border-width: 10px;
+  border-style: groove;
+  border-color: blueviolet;
+}
