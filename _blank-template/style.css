@@ -1,8 +1,47 @@
-html, body {
-  margin: 0;
-  padding: 0;
-}
+/* html,
+body {
+  margin: 100;
+  padding: 100;
+} */
 
 canvas {
   display: block;
+}
+
+body {
+  background-color: black;
+}
+
+
+.box {
+  background-color: black;
+  width: 994px;
+  height: 55px;
+  margin-left: 650px;
+  padding: 15px;
+  /* border: 1px solid blueviolet; */
+  border-width: 20px;
+  border-style: groove;
+  border-color: blueviolet;
+}
+
+.background {
+  background-color: black;
+  width: 994px;
+  height: 305px;
+  margin-left: 650px;
+  padding: 15px;
+  /* border: 1px solid blueviolet; */
+  border-width: 20px;
+  border-style: groove;
+  border-color: blueviolet;
+}
+
+#canvasContainer {
+  margin-left: 650px;
+  margin-right: 1850px;
+  padding: 15px;
+  border-width: 20px;
+  border-style: groove;
+  border-color: blueviolet;
 }
